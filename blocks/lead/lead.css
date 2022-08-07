@@ -1,0 +1,27 @@
+.lead {
+  max-width: calc(100% - 148px * 2);
+  padding-bottom: 92px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead {
+    max-width: 984px;
+    width: calc(100% - 48px * 2);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead {
+    padding-bottom: 88px;
+    max-width: 928px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead {
+    padding-bottom: 64px;
+  }
+}
