@@ -1,4 +1,4 @@
-# Проектная работа: "Путешествие по России" (https://github.com/UlyanaBakhmet/russian-travel)
+# Проектная работа: "Путешествие по России" (https://ulyanabakhmet.github.io/russian-travel/index.html)
 
 ## Описание:
 
